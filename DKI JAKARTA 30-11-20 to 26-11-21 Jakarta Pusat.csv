@@ -1,4 +1,4 @@
-Tanggal,Beras,Bawang Merah,Bawang Putih,Cabai Merah,Cabai Rawit,Temperatur rata-rata (Tavg),Kelembapan rata-rata (RH_avg),Curah Hujan (RR),Lamanya penyinaran matahari (ss)
+Tanggal,Beras,Bawang_Merah,Bawang_Putih,Cabai_Merah,Cabai_Rawit,TAVG,RH_AVG,RR,ss
 30/11/2020," 13,450.00 "," 37,500.00 "," 37,500.00 "," 53,350.00 "," 40,400.00 ",27.6,81,1,1.4
 01/12/2020," 13,450.00 "," 37,500.00 "," 37,500.00 "," 53,350.00 "," 40,400.00 ",29.2,73,8888,1
 02/12/2020," 13,450.00 "," 37,500.00 "," 37,500.00 "," 54,150.00 "," 41,650.00 ",29.6,75,0,8.1
